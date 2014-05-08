@@ -9,6 +9,8 @@ Usage
 This will work ONLY on OS X.
 
 ```bash
+git clone git@github.com:marcinbunsch/hipchat-restyle.git
+cd hipchat-restyle
 make
 ```
 
